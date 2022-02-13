@@ -145,6 +145,7 @@ Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
 
 ## Images
 
+[![image alt text](https://octodex.github.com/images/minion.png)](https://www.w3schools.io/file/markdown-images/)
 ![Minion](https://octodex.github.com/images/minion.png)
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
 
