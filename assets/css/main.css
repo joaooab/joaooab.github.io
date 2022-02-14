@@ -1765,6 +1765,10 @@ input, select, textarea {
 			padding-left: 0.25em;
 		}
 
+	.achievements {
+		margin-top: 40px;
+	}	
+
 /* Social */
 
 	ul.social {
