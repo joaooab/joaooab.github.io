@@ -11,7 +11,7 @@ Currently working as an **Android Engineer** at Nexaas. Enthusiastic about techn
 
 ### Senior Android Engineer @Nexaa
 #### Aug 2020 - Current.
-* Design hexagonal architecture;
+* Designed new hexagonal architecture for the application, constantly doing technical decisions regarding the tech stack and design patterns;
 * Reduced first build time project in 75%;
 * Created tests and automated processes in CI/CD.
 
