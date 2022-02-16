@@ -3,7 +3,7 @@
 
 Hi there. I'm João Vitor Freitas.
 
-Currently working as an **Android Engineer** at Nexaas. Enthusiastic about technology and innovation. I believe teamwork and empathy is the key to customer success.
+Currently working as an **Android Developer** at Nexaas. Enthusiastic about technology and innovation. I believe teamwork and empathy is the key to customer success.
 
 </br>
 
