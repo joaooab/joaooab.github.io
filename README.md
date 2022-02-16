@@ -9,19 +9,19 @@ Currently working as an **Android Developer** at Nexaas. Enthusiastic about tech
 
 ## Experience :computer:
 
-### Senior Android Engineer @Nexaas
+### Senior Android Developer @Nexaas
 #### Aug 2020 - Current.
 * Designed new hexagonal architecture for the application, constantly doing technical decisions regarding the tech stack and design patterns;
 * Reduced first build time project in 75%;
 * Created tests and automated processes in CI/CD.
 
-### Android Engineer @Máxima Tech
+### Android Developer @Máxima Tech
 #### Sep 2018 - Aug 2020 - 2 years.
 * Refactored entire app from MVP to MVVM and added Jetpack Components;
 * Responsible developer for a route logistics product;
 * Responsible developer for a GPS tracking API.
 
-### Trainee Software Developer @ZG Soluções
+### Development Intern @ZG Soluções
 #### Oct 2017 - Sep 2018 - 1 year.
 * Maintenance on a gloss prevention product;
 * Maintenance on a web crawler product;
