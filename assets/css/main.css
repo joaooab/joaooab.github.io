@@ -1620,12 +1620,27 @@ input, select, textarea {
 		margin-bottom: 0;
 	}
 
+	.rounded-box {
+		border: 2px solid #ccc; /* Border color and width */
+		padding: 5px 10px; /* Add padding inside the box */
+		border-radius: 10px; /* Add rounded corners */
+		margin: 5px; /* Add some margin for spacing */
+		display: inline-block; /* Make spans behave like blocks */
+	  }
+	.rounded-box:hover {
+		background-color: #f0f0f0; /* Change the background color on hover */
+	  }  
+
 /* Image */
 
 	.image {
 		display: inline-block;
 		position: relative;
 	}
+
+	.image:hover {
+		opacity: 0.3;
+	} 
 
 		.image img {
 			display: block;
